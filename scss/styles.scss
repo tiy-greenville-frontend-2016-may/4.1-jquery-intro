@@ -1,0 +1,18 @@
+
+
+.side-nav{
+  list-style: none;
+
+  a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #bbb;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    color: green;
+  }
+
+  a.active{
+    color: orange;
+  }
+}

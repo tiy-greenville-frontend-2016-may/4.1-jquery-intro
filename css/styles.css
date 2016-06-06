@@ -1,0 +1,13 @@
+.side-nav {
+  list-style: none; }
+  .side-nav a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #bbb;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    color: green; }
+  .side-nav a.active {
+    color: orange; }
+
+/*# sourceMappingURL=styles.css.map */
